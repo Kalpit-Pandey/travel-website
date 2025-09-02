@@ -43,7 +43,7 @@ A modern travel website built with React.js.
 ## Installation and Setup
 ```bash
 # Clone the repository
-git clone https://github.com/Kalpit-Pandey/travelling.git
+git clone https://github.com/Kalpit-Pandey/travel-website.git
 
 # Install dependencies
 npm install
