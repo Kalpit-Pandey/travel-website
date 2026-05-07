@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom"; // Add useNavigate
 import { useTheme } from "../../context/ThemeContext";
-import "../../styles/components/navbar.css";
+import "../../styles/components/Navbar.css";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
